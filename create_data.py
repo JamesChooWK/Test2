@@ -2,6 +2,7 @@
 import argparse
 import cv2
 import os
+import numpy
 
 # to rotate the image
 def rotation(img,angle,num,arg):
